@@ -3,4 +3,4 @@ If you specifically need to rescale any STL files, well, this will do it quite n
 
 Not polished.
 
-Last modified April 2021
+Last modified April 2021, Later uploaded to GitHub
